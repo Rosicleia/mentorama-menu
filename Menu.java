@@ -18,7 +18,7 @@ public class Menu {
 
             switch (opcao) {                
                 case 1: 
-                    System.out.println("Você escolheu a primeira opção. \n");
+                                        System.out.println("Você escolheu a primeira opção. \n");
                     break;
                 case 2:
                     System.out.println("Você escolheu a segunda opção. \n");
